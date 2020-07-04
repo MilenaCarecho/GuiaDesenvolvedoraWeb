@@ -5,14 +5,14 @@ Fala Devs, tudo bem? :vulcan_salute:
 
 Vim compartilhar com vocês como vou me tornar uma desenvolvedora front-end em 6 meses. :dart:
 
-Decidi criar esse guia porque na internet existe muito conteúdo a nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
+Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
 
 ## O que você vai encontrar nesse guia: 
 
 * Cursos 
 * Artigos
 * Desafios 
-* ideias de projetos
+* Idéias de projetos
 
 Todo o material utilizado neste guia é gratuito.:money_with_wings:
 
