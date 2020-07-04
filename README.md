@@ -21,7 +21,7 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 ## Índice
 
-* [O que é o Guia Desenvolvedora Web] (#id1)
+* [O que é o Guia Desenvolvedora Web](#id1)
 * O que você vai encontrar nesse guia
 * Como usar o Guia
 * Por que ser um programador? 
