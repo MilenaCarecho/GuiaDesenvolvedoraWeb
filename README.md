@@ -18,6 +18,23 @@ Todo o material utilizado neste guia é gratuito.:money_with_wings:
 
 Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
+
+## Índice
+
+* O que é o Guia Desenvolvedora Web
+* O que você vai encontrar nesse guia
+* Por que ser um programador? 
+* Git e Github
+* HTML5
+   * Curso 
+   * Exercicios 
+   * Desafios 
+* CSS3
+   * Curso 
+   * Exercicios 
+   * Desafios
+* HTML 
+
 ## Contribuição 
 
 Você tem alguma sugestão de como podemos melhorar esse projeto em geral? Me informe! Gostaria muito de ouvir seus comentários!
