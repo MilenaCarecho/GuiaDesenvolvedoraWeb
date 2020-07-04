@@ -1,11 +1,11 @@
 
 # Guia para se tornar uma desenvolvedora Web 
 
-Fala Devs, tudo bem? 
+Fala Devs, tudo bem? :vulcan_salute:
 
-Vim compartilhar com vocês como vou me tornar uma desenvolvedora front-end em 6 meses.
+Vim compartilhar com vocês como vou me tornar uma desenvolvedora front-end em 6 meses. :dart:
 
-Decidi criar esse guia pois na internet existe muito conteúdo a nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar
+Decidi criar esse guia porque na internet existe muito conteúdo a nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar :facepalm:
 
 ## O que você vai encontrar nesse guia: 
 
@@ -14,12 +14,12 @@ Decidi criar esse guia pois na internet existe muito conteúdo a nosso dispor, e
 * Desafios 
 * ideias de projetos
 
-Todo o material utilizado e listado neste guia, será gratuito.
+Todo o material utilizado neste guia é gratuito.:money_with_wings:
 
 ## Contribuição 
 
 Você tem alguma sugestão de como podemos melhorar esse projeto em geral? Me informe! Gostaria muito de ouvir seus comentários!
-Quaisquer contribuições são muito apreciadas.
+Quaisquer contribuições são muito apreciadas.:grinning:
 
 ## Espalhe a palavra
 
