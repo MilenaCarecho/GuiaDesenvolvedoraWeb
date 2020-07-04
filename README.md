@@ -16,6 +16,8 @@ Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor
 
 Todo o material utilizado neste guia é gratuito.:money_with_wings:
 
+Não pule etapas e realize os exercicios e desafios propostos :rocket:
+
 ## Contribuição 
 
 Você tem alguma sugestão de como podemos melhorar esse projeto em geral? Me informe! Gostaria muito de ouvir seus comentários!
