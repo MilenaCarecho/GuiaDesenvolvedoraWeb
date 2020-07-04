@@ -3,7 +3,7 @@
 
 Fala Devs, tudo bem? :vulcan_salute:
 
-Vim compartilhar com vocês como vou me tornar uma desenvolvedora front-end em 6 meses. :dart:
+Vim compartilhar com vocês como estou me tornando uma desenvolvedora front end. :dart:
 
 Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
 
