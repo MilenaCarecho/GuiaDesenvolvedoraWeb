@@ -23,17 +23,29 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 * O que é o Guia Desenvolvedora Web
 * O que você vai encontrar nesse guia
+* Como usar o Guia
 * Por que ser um programador? 
 * Git e Github
 * HTML5
-   * Curso 
+   * Cursos 
    * Exercicios 
    * Desafios 
 * CSS3
+   * Cursos 
+   * Exercicios 
+   * Desafios
+* Design responsivo 
    * Curso 
    * Exercicios 
    * Desafios
-* HTML 
+* Logica de programação 
+   * Curso 
+   * Exercicios 
+   * Desafios
+* JavaScript 
+   * Curso 
+   * Exercicios 
+   * Desafios
 
 ## Contribuição 
 
