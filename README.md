@@ -7,7 +7,7 @@ Vim compartilhar com vocês como estou me tornando uma desenvolvedora front end.
 
 Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
 
-## O que você vai encontrar nesse guia: 
+## O que você vai encontrar nesse guia: <a name="id2"></a>
 
 * Cursos 
 * Artigos
@@ -22,30 +22,48 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 ## Índice
 
 * [O que é o Guia Desenvolvedora Web](#id1)
-* O que você vai encontrar nesse guia
-* Como usar o Guia
-* Por que ser um programador? 
-* Git e Github
-* HTML5
+* [O que você vai encontrar nesse guia](#id2)
+* [Como usar o Guia](#id3)
+* [Por que ser um programador?](#id4)
+* [Git e Github](#id5)
+* [HTML5](#id6)
    * Cursos 
    * Exercicios 
    * Desafios 
-* CSS3
+* [CSS3](#id7)
    * Cursos 
    * Exercicios 
    * Desafios
-* Design responsivo 
+* [Design responsivo](#id8)
    * Curso 
    * Exercicios 
    * Desafios
-* Logica de programação 
+* [Logica de programação](#id9)
    * Curso 
    * Exercicios 
    * Desafios
-* JavaScript 
+* [JavaScript](#id10) 
    * Curso 
    * Exercicios 
    * Desafios
+
+
+## Como usar esse guia ?<a name="id3"></a>
+
+## Por que ser um programador?<a name="id4"></a>
+
+## Git e Github<a name="id5"></a>
+
+## HMTL5<a name="id6"></a>
+
+## CSS3<a name="id7"></a>
+
+## Desing responsivo<a name="id8"></a>
+
+## Logica de programação<a name="id9"></a> 
+
+## Javascript<a name="id10"></a> 
+
 
 ## Contribuição 
 
