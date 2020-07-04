@@ -23,46 +23,52 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 * [O que é o Guia Desenvolvedora Web](#id1)
 * [O que você vai encontrar nesse guia](#id2)
-* [Como usar o Guia](#id3)
-* [Por que ser um programador?](#id4)
-* [Git e Github](#id5)
-* [HTML5](#id6)
+* [Como usar o Guia](#id)
+* [Não sinta que você não é inteligente o suficiente](#id)
+* [Por que ser um programador?](#id)
+* [O que é um programador Front end](#id)
+* [Git e Github](#id)
+* [HTML5](#id)
    * Cursos 
    * Exercicios 
    * Desafios 
-* [CSS3](#id7)
+* [CSS3](#id)
    * Cursos 
    * Exercicios 
    * Desafios
-* [Design responsivo](#id8)
+* [Design responsivo](#id)
    * Curso 
    * Exercicios 
    * Desafios
-* [Logica de programação](#id9)
+* [Logica de programação](#id)
    * Curso 
    * Exercicios 
    * Desafios
-* [JavaScript](#id10) 
+* [JavaScript](#id) 
    * Curso 
    * Exercicios 
    * Desafios
 
 
-## Como usar esse guia ?<a name="id3"></a>
+## Como usar esse guia ? :books:<a name="id"></a>
 
-## Por que ser um programador?<a name="id4"></a>
+## Por que ser um programador? :thinking: <a name="id"></a>
 
-## Git e Github<a name="id5"></a>
+## Por que ser um programador?:desktop_computer: <a name="id"></a>
 
-## HMTL5<a name="id6"></a>
+## O que é um programador Front end? :hippopotamus: <a name="id"></a>
 
-## CSS3<a name="id7"></a>
+## Git e Github :trident: <a name="id"></a>
 
-## Desing responsivo<a name="id8"></a>
+## HMTL5<a name="id"></a>
 
-## Logica de programação<a name="id9"></a> 
+## CSS3<a name="id"></a>
 
-## Javascript<a name="id10"></a> 
+## Desing responsivo<a name="id"></a>
+
+## Logica de programação<a name="id"></a> 
+
+## Javascript<a name="id"></a> 
 
 
 ## Contribuição 
