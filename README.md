@@ -139,7 +139,7 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 ## Desafios <a name="git3"></a>
    - [ ]  Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
 
-## HTML5<a name="id8"></a>
+## HTML5 :bone: <a name="id8"></a>
 
 Bom, o que falar sobre nosso querido HTML5 ? 
 
@@ -157,7 +157,7 @@ Tem muito conteúdo na internet de HTML5, muitos cursos gratuitos.
 Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na massa, o curso linkado ja fornece a base necessaria para que você aprenda a realizar suas buscas na documentação da W3School ou na apostila de HTML :relaxed:
 
 
-## Material de estudo <a name="HTML5"></a>
+## Material de estudo <a name="html1"></a>
 
    #### Video
    - [ ] [História da internet](https://www.youtube.com/watch?v=rsFCVjr5yxc&t=2s)
