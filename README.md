@@ -154,7 +154,7 @@ Eu acho importante seguir a seguinte ordem para o estudo de html5:
 
 Tem muito conteúdo na internet de HTML5, muitos cursos gratuitos. 
 
-Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na massa, o curso linkado ja fornece a base necessaria para que você aprenda a realizar suas buscas na documentação da W3School ou na apostila de HTML :relaxed:
+Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na massa, o curso linkado ja fornece a base necessária para que você aprenda a realizar suas buscas na documentação da W3School ou na apostila de HTML :relaxed:
 
 
 ## Material de estudo <a name="html1"></a>
