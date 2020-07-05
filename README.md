@@ -114,7 +114,7 @@ Abaixo listei dois vídeos para ajudar a entender o que faz um desenvolvedor fro
 
 ## Git e Github :trident: <a name="id7"></a>
 
-Bom, e finalmente depois de uma boa introdução ao mundo da programação, chegamos ao primeiro curso, espero que você não tenha pulado o contéudo acima :triumph:
+Bom, finalmente depois de uma boa introdução ao mundo da programação, chegamos ao primeiro curso, espero que você não tenha pulado o contéudo acima :triumph:
 
 O primeiro curso deste guia é o de Git e Github. Mas por quê? 
 Antes de começar de fato a criar projetos e aprender o conteudo, é importante você saber a utilizar o git e como se comportar no github para tirar o maior probeiveito dessa rede e ja começar a demontrar suas habilidades para o mundo :wink:
@@ -136,7 +136,7 @@ Antes de começar de fato a criar projetos e aprender o conteudo, é importante 
    - [ ]  Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
    - [ ]  [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
 
-## * Desafios <a name="git3"></a>
+## Desafios <a name="git3"></a>
    - [ ]  Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
 
 ## HMTL5<a name="id"></a>
