@@ -28,11 +28,11 @@ Realize os exercícios e desafios propostos :rocket:
 
 * [O que é o Guia Desenvolvedora Web](#id1)
 * [O que você vai encontrar nesse guia](#id2)
-* [Como usar o Guia](#id)
-* [Não sinta que você não é inteligente o suficiente](#id)
-* [Por que ser um programador?](#id)
-* [O que faz um programador Front end](#id)
-* [Git e Github](#id)
+* [Como usar o Guia](#id3)
+* [Não sinta que você não é inteligente o suficiente](#id4)
+* [Por que ser um programador?](#id5)
+* [O que faz um programador Front end](#id6)
+* [Git e Github](#id7)
    * Material de estudo
    * Exercicios 
    * Desafios
@@ -58,9 +58,9 @@ Realize os exercícios e desafios propostos :rocket:
    * Desafios
 
 
-## Como usar esse guia ? :books:<a name="id"></a>
+## Como usar esse guia ? :books:<a name="id3"></a>
 
-## Não sinta que você não é inteligente o suficiente :brain: <a name="id"></a>
+## Não sinta que você não é inteligente o suficiente :brain: <a name="id4"></a>
 
 >*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
 
@@ -88,7 +88,7 @@ Como esse é um pensamento sabotador e que esta presente em quase todos nós, mo
 - [ ] [Programar não requer talento ou paixão.](http://kwan.pt/pt/blog/programar-nao-requer-talento#:~:text=%22O%20mito%20do%20%22programador%20g%C3%A9nio%22%20%C3%A9%20extremamente%20perigoso.&text=Como%20resultado%2C%20os%20programadores%20t%C3%AAm,enorme%20na%20qualidade%20de%20vida.)
 - [ ] [Programar é muito fácil](https://medium.com/@julia.maschion/programar-%C3%A9-muito-f%C3%A1cil-ddf610ca6f18)
 
-## Por que ser um programador?:desktop_computer: <a name="id"></a>
+## Por que ser um programador?:desktop_computer: <a name="id5"></a>
 
 >*"Programação é uma linguagem, assim como português ou inglês. É o “idioma” do computador. Mesmo que você não queira seguir uma carreira em tecnologia, aprender a programar estimula o desenvolvimento de diversas habilidades."*
 
@@ -103,7 +103,7 @@ Abaixo listei alguns vídeos e leituras que da aquele UP pra começar :rocket:
 - [ ] [Por que aprender a programar?](https://recode.org.br/por-que-aprender-a-programar/)
 - [ ] [Por que deveríamos saber programar ?Mesmo se não for trabalhar com isso!](https://medium.com/codando/por-que-deveriamos-saber-programar-mesmo-se-n%C3%A3o-for-trabalhar-com-isso-d9ac0e900f7b)
 
-## O que faz um programador Front end? :hippopotamus: <a name="id"></a>
+## O que faz um programador Front end? :hippopotamus: <a name="id6"></a>
 
 >*Desenvolvimento web front-end é a prática de converter dados em uma interface gráfica, através do uso de HTML, CSS e JavaScript, para que os usuários possam visualizar e interagir com esses dados. - Wikipedia*
 
@@ -112,7 +112,34 @@ Abaixo listei dois vídeos para ajudar a entender o que faz um desenvolvedor fro
 - [ ] [O QUE É UM DESENVOLVEDOR FRONT-END? ](https://www.youtube.com/watch?v=v0cN26_1d3I)
 - [ ] [O que faz uma desenvolvedora front-end?](https://www.youtube.com/watch?v=ZY3-MFxVdEw)
 
-## Git e Github :trident: <a name="id"></a>
+## Git e Github :trident: <a name="id7"></a>
+
+Bom, e finalmente depois de uma boa introdução ao mundo da programação, chegamos ao primeiro curso, espero que você não tenha pulado o contéudo acima :triumph:
+
+O primeiro curso deste guia é o de Git e Github. Mas por quê? 
+Antes de começar de fato a criar projetos e aprender o conteudo, é importante você saber a utilizar o git e como se comportar no github para tirar o maior probeiveito dessa rede e ja começar a demontrar suas habilidades para o mundo :wink:
+
+
+   * Material de estudo 
+       # Video
+       - [ ] * [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+       
+
+       # Leitura 
+       - [ ] * [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
+       - [ ] * [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+       - [ ] * [A importância do Github para Desenvolvedores](https://willianjusten.com.bra-importancia-do-github-para-desenvolvedores/)
+       - [ ] * [Git e a importância de versionar um projeto](https://www.hostgator.com.br/blog/git-o-sistema-de-controle/)
+       - [ ] * [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+
+   * Exercicios
+      - [ ] * Crie sua conta no [Github](https://github.com/)
+      - [ ] * Siga o meu [perfil](https://github.com/MilenaCarecho) 
+      - [ ] * Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
+      - [] * [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
+
+   * Desafios
+      - [ ] * Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
 
 ## HMTL5<a name="id"></a>
 
