@@ -121,11 +121,11 @@ Antes de começar de fato a criar projetos e aprender o conteudo, é importante 
 
 
    ## * Material de estudo 
-       ### Video
+        **Video**
        - [ ] * [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
        
 
-       ### Leitura 
+       **Leitura** 
        - [ ] * [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
        - [ ] * [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
        - [ ] * [A importância do Github para Desenvolvedores](https://willianjusten.com.bra-importancia-do-github-para-desenvolvedores/)
