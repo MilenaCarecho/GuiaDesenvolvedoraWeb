@@ -172,7 +172,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Exercicios <a name="git2"></a>
 
-   * Clique [aqui]() para mais informações sobre o exercício 
+   * Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 
    - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
    
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
