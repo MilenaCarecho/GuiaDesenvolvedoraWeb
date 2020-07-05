@@ -3,7 +3,7 @@
 
 Fala Devs, tudo bem? :vulcan_salute:
 
-Vim compartilhar com vocês como estou me tornando uma desenvolvedora front end. :dart:
+Vim compartilhar com vocês como estou me tornando uma desenvolvedora front-end. :dart:
 
 Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar ao invés de ajudar. 
 
@@ -29,7 +29,7 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 * [Como usar o Guia](#id)
 * [Não sinta que você não é inteligente o suficiente](#id)
 * [Por que ser um programador?](#id)
-* [O que é um programador Front end](#id)
+* [O que faz um programador Front end](#id)
 * [Git e Github](#id)
 * [HTML5](#id)
    * Cursos 
@@ -71,10 +71,10 @@ Como esse é um pensamento sabotador e que esta presente em quase todos nós, mo
 * Videos (Pt-Br)
 - [ ] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
 - [ ] [Programação é dificil](https://www.youtube.com/watch?v=wvPAODEdQNI)
-- [ ] [Programador Ruim de Lógica](https://www.youtube.com/watch?v=3tNT4h06jnA)
 
 
-* Videos (Ingles)
+
+* Videos (Inglês)
 - [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [ ] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
@@ -83,11 +83,25 @@ Como esse é um pensamento sabotador e que esta presente em quase todos nós, mo
 - [ ] [Programar não requer talento ou paixão.](http://kwan.pt/pt/blog/programar-nao-requer-talento#:~:text=%22O%20mito%20do%20%22programador%20g%C3%A9nio%22%20%C3%A9%20extremamente%20perigoso.&text=Como%20resultado%2C%20os%20programadores%20t%C3%AAm,enorme%20na%20qualidade%20de%20vida.)
 - [ ] [Programar é muito fácil](https://medium.com/@julia.maschion/programar-%C3%A9-muito-f%C3%A1cil-ddf610ca6f18)
 
-## Por que ser um programador? :thinking: <a name="id"></a>
-
 ## Por que ser um programador?:desktop_computer: <a name="id"></a>
 
-## O que é um programador Front end? :hippopotamus: <a name="id"></a>
+>*"Programação é uma linguagem, assim como português ou inglês. É o “idioma” do computador. Mesmo que você não queira seguir uma carreira em tecnologia, aprender a programar estimula o desenvolvimento de diversas habilidades."*
+
+Abaixo listei alguns vídeos e leituras que da aquele UP pra começar :rocket:
+
+* Vídeos 
+- [ ] [Por que todos deveriam aprender a programar?](https://www.youtube.com/watch?v=mHW1Hsqlp6A)
+- [ ] [Seja um Programador](https://www.youtube.com/watch?v=S9uPNppGsGo)
+- [ ] [Como Virar Programador](https://www.youtube.com/watch?v=R6NCG9gqcX0)
+
+* Artigos 
+- [ ] [Por que aprender a programar?](https://recode.org.br/por-que-aprender-a-programar/)
+- [ ] [Por que deveríamos saber programar ?Mesmo se não for trabalhar com isso!](https://medium.com/codando/por-que-deveriamos-saber-programar-mesmo-se-n%C3%A3o-for-trabalhar-com-isso-d9ac0e900f7b)
+
+## O que faz um programador Front end? :hippopotamus: <a name="id"></a>
+
+- [ ] [O QUE É UM DESENVOLVEDOR FRONT-END? ](https://www.youtube.com/watch?v=v0cN26_1d3I)
+- [ ] [O que faz uma desenvolvedora front-end?](https://www.youtube.com/watch?v=ZY3-MFxVdEw)
 
 ## Git e Github :trident: <a name="id"></a>
 
