@@ -52,11 +52,11 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 ## Como usar esse guia ? :books:<a name="id"></a>
 
-## Não sinta que você não é inteligente o suficiente :brain <a name="id"></a>
+## Não sinta que você não é inteligente o suficiente :brain: <a name="id"></a>
 
 O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora 
 
-- [ ] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
+- [x] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
 
 ## Por que ser um programador? :thinking: <a name="id"></a>
 
