@@ -141,13 +141,34 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 
 ## HTML5<a name="id8"></a>
 
-## Material de estudo <a name="html1"></a>
+Bom, o que falar sobre nosso querido HTML5 ? 
 
-Bom, o que falar sobre nosso querido HTML ? 
+HTML5 é uma linguagem de marcação hipertexto utilizada para criar sites.
 
-   #### Video 
+Eu acho importante seguir a seguinte ordem para o estudo de html5: 
+1. Conhecer a internet e o funcionamento dela, pra isso separei 3 videos do curso de HTML5 do *Curso em vídeo*, e é por lá que você começa.
+2. Fazer o curso de HTML5 para iniciantes da NodeStudio (curso gratuido com certificado :heart_eyes:)
+3. realizar os exercícios e desafios 
+
+   Caso você tenha alguma dificuldade na realização dos exercícios, consulte os documentos anexos no tópico *Leitura* :mag_right:
+
+Tem muito conteúdo na internet de HTML5, muitos cursos gratuitos. 
+
+Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na massa, o curso linkado ja fornece a base necessaria para que você aprenda a realizar suas buscas na documentação da W3School ou na apostila de HTML :relaxed:
+
+
+## Material de estudo <a name="HTML5"></a>
+
+   #### Video
+   - [ ] [História da internet](https://www.youtube.com/watch?v=rsFCVjr5yxc&t=2s)
+   - [ ] [História do HTML](https://www.youtube.com/watch?v=NSmapCNcSyI)
+   - [ ] [Como funciona a internet](https://www.youtube.com/watch?v=LMfeZ6XD0No&t=3s)
+   - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
+
 
    #### Leitura
+   - [ ] [W3Schools](https://www.w3schools.com/html/default.asp)
+   - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
 
 ## Exercicios <a name="html2"></a>
 
