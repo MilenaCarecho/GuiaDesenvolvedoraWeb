@@ -5,7 +5,7 @@ Fala Devs, tudo bem? :vulcan_salute:
 
 Vim compartilhar com vocês como estou me tornando uma desenvolvedora front end. :dart:
 
-Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
+Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar ao invés de ajudar. 
 
 - [ ] [Você é um colecionador de cursos?](https://www.youtube.com/watch?v=mUqo8a1FDSM&list=PLHz_AreHm4dk_kkE0WS7010x8_AsU7twX&index=1)
 
@@ -13,6 +13,7 @@ Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor
 
 * Cursos 
 * Artigos
+* Vídeos 
 * Desafios 
 * Idéias de projetos
 
@@ -70,7 +71,7 @@ Como esse é um pensamento sabotador e que esta presente em quase todos nós, mo
 * Videos (Pt-Br)
 - [ ] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
 - [ ] [Programação é dificil](https://www.youtube.com/watch?v=wvPAODEdQNI)
-- [ ] []()
+- [ ] [Programador Ruim de Lógica](https://www.youtube.com/watch?v=3tNT4h06jnA)
 
 
 * Videos (Ingles)
