@@ -174,7 +174,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Desafios <a name="html3"></a>
 
-## CSS3<a name="id"></a>
+## CSS3 :nail_care: <a name="id"></a>
 
 ## Material de estudo <a name="css1"></a> 
 
