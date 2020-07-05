@@ -37,13 +37,13 @@ Realize os exercícios e desafios propostos :rocket:
    * [Exercicios](#git2)
    * [Desafios](#git3)
 * [HTML5](#id)
-   * Material de estudo 
-   * Exercicios 
-   * Desafios 
+   * Material de estudo(html1)
+   * Exercicios(html2)
+   * Desafios(html3)
 * [CSS3](#id)
-   * Material de estudo 
-   * Exercicios 
-   * Desafios
+   * Material de estudo (CSS1)
+   * Exercicios (CSS2)
+   * Desafios (CSS3)
 * [Design responsivo](#id)
    * Material de estudo 
    * Exercicios 
@@ -141,22 +141,29 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 
 ## HTML5<a name="id"></a>
 
-## Material de estudo <a name="HTML5"></a>
+## Material de estudo <a name="HTML1"></a>
 
 Bom, o que falar sobre nosso querido HTML ? 
 
-   #### Video
-   
-   - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
-
+   #### Video 
 
    #### Leitura
 
-## Exercicios <a name="git2"></a>
+## Exercicios <a name="html2"></a>
 
-## Desafios <a name="git2"></a>
+## Desafios <a name="html3"></a>
 
 ## CSS3<a name="id"></a>
+
+## Material de estudo <a name="css1"></a> 
+
+   #### Video 
+
+   #### Leitura
+
+## Exercicios <a name="css2"></a>
+
+## Desafios <a name="css3"></a>
 
 ## Desing responsivo<a name="id"></a>
 
