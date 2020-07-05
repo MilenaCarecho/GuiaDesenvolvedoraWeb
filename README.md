@@ -173,7 +173,9 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 ## Exercicios <a name="git2"></a>
 
    * Clique [aqui]() para mais informações sobre o exercício 
-   - [ ] [Exercício 01](https://codepen.io/milenacarecho/pen/VweQdpQ)
+   - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
+
+   
    [*Exercicio resolvido*]()
    #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
