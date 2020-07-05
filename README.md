@@ -141,6 +141,21 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 
 ## HTML5<a name="id"></a>
 
+## Material de estudo <a name="HTML5"></a>
+
+Bom, o que falar sobre nosso querido HTML ? 
+
+   #### Video
+   
+   - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
+
+
+   #### Leitura
+
+## Exercicios <a name="git2"></a>
+
+## Desafios <a name="git2"></a>
+
 ## CSS3<a name="id"></a>
 
 ## Desing responsivo<a name="id"></a>
