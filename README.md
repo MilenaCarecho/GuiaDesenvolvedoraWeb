@@ -7,6 +7,8 @@ Vim compartilhar com vocês como estou me tornando uma desenvolvedora front end.
 
 Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar 
 
+- [ ] [Você é um colecionador de cursos?](https://www.youtube.com/watch?v=mUqo8a1FDSM&list=PLHz_AreHm4dk_kkE0WS7010x8_AsU7twX&index=1)
+
 ## O que você vai encontrar nesse guia: <a name="id2"></a>
 
 * Cursos 
@@ -56,12 +58,23 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 >*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
 
+Muitas vezes, principalmente quando somos iniciantes, ao pensar em entrar para o mundo da programação, nos vem a sensação de que não somos inteligentes o suficiente, ou não temos capacidade para isso. 
+
+Eu particularmente sofri (e as vezes ainda sofro) com isso, uma eterna sensação de que não nasci pra isso, como se pra programar fosse necessario um certo dom, o que claramente não é verdade. 
+
+Como esse é um pensamento sabotador e que esta presente em quase todos nós, montei esse topico com alguns videos e artigos que me ajuda a não cair no mito do programador Genio. 
+
+É importante deixar claro que programação não é facil, mas tambem não é dificil, não desista. 
+
 
 * Videos (Pt-Br)
 - [ ] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
+- [ ] [Programação é dificil](https://www.youtube.com/watch?v=wvPAODEdQNI)
+- [ ] []()
+
 
 * Videos (Ingles)
-- [ ] [É perigoso ficar sozinho: lutando contra os monstros invisíveis na tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [ ] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 * Artigos 
