@@ -33,24 +33,27 @@ Realize os exercícios e desafios propostos :rocket:
 * [Por que ser um programador?](#id)
 * [O que faz um programador Front end](#id)
 * [Git e Github](#id)
+   * Material de estudo
+   * Exercicios 
+   * Desafios
 * [HTML5](#id)
-   * Cursos 
+   * Material de estudo 
    * Exercicios 
    * Desafios 
 * [CSS3](#id)
-   * Cursos 
+   * Material de estudo 
    * Exercicios 
    * Desafios
 * [Design responsivo](#id)
-   * Curso 
+   * Material de estudo 
    * Exercicios 
    * Desafios
 * [Logica de programação](#id)
-   * Curso 
+   * Material de estudo 
    * Exercicios 
    * Desafios
 * [JavaScript](#id) 
-   * Curso 
+   * Material de estudo 
    * Exercicios 
    * Desafios
 
