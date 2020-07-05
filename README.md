@@ -174,8 +174,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
    * Clique [aqui]() para mais informações sobre o exercício 
    - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
-
-
+   <br>
    [*Exercicio resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
    #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
