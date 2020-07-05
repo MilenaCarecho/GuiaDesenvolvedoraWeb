@@ -117,7 +117,7 @@ Abaixo listei dois vídeos para ajudar a entender o que faz um desenvolvedor fro
 Bom, finalmente depois de uma boa introdução ao mundo da programação, chegamos ao primeiro curso, espero que você não tenha pulado o contéudo acima :triumph:
 
 O primeiro curso deste guia é o de Git e Github. Mas por quê? 
-Antes de começar de fato a criar projetos e aprender o conteudo, é importante você saber a utilizar o git e como se comportar no github para tirar o maior probeiveito dessa rede e ja começar a demontrar suas habilidades para o mundo :wink:
+Antes de começar de fato a criar projetos e aprender o conteúdo, é importante você saber utilizar o git e como se comportar no github para tirar o maior proveito dessa rede e já começar a demontrar suas habilidades para o mundo :wink:
 
 ## Material de estudo <a name="git1"></a>
    #### Video
