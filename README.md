@@ -105,6 +105,10 @@ Abaixo listei alguns vídeos e leituras que da aquele UP pra começar :rocket:
 
 ## O que faz um programador Front end? :hippopotamus: <a name="id"></a>
 
+>*Desenvolvimento web front-end é a prática de converter dados em uma interface gráfica, através do uso de HTML, CSS e JavaScript, para que os usuários possam visualizar e interagir com esses dados. - Wikipedia*
+
+Abaixo listei dois vídeos para ajudar a entender o que faz um desenvolvedor front-end
+
 - [ ] [O QUE É UM DESENVOLVEDOR FRONT-END? ](https://www.youtube.com/watch?v=v0cN26_1d3I)
 - [ ] [O que faz uma desenvolvedora front-end?](https://www.youtube.com/watch?v=ZY3-MFxVdEw)
 
