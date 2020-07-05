@@ -122,6 +122,7 @@ Antes de começar de fato a criar projetos e aprender o conteudo, é importante 
 ## Material de estudo <a name="git1"></a>
    #### * Video
    - [ ] * [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
    #### *Leitura
     - [ ] * [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
     - [ ] * [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
@@ -133,7 +134,7 @@ Antes de começar de fato a criar projetos e aprender o conteudo, é importante 
    - [ ] * Crie sua conta no [Github](https://github.com/)
    - [ ] * Siga o meu [perfil](https://github.com/MilenaCarecho) 
    - [ ] * Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
-   - [] * [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
+   - [ ] * [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
 
 ## * Desafios <a name="git3"></a>
    - [ ] * Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
