@@ -139,7 +139,7 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 ## Desafios <a name="git3"></a>
    - [ ]  Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
 
-## HMTL5<a name="id"></a>
+## HTML5<a name="id"></a>
 
 ## CSS3<a name="id"></a>
 
