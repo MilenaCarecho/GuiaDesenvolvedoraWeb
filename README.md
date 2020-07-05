@@ -54,9 +54,20 @@ Não pule etapas e realize os exercícios e desafios propostos :rocket:
 
 ## Não sinta que você não é inteligente o suficiente :brain: <a name="id"></a>
 
-O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora 
+>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
 
-- [x] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
+
+* Videos (Pt-Br)
+- [ ] [Aprender programação sem ter dom da programação](https://www.youtube.com/watch?v=ZtMzB5CoekE)
+
+* Videos (Ingles)
+- [ ] [É perigoso ficar sozinho: lutando contra os monstros invisíveis na tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [ ] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+
+* Artigos 
+- [ ] [Ninguém simplesmente aprende a programar](https://www.programaria.org/ninguem-simplesmente-aprende-como-programar/)
+- [ ] [Programar não requer talento ou paixão.](http://kwan.pt/pt/blog/programar-nao-requer-talento#:~:text=%22O%20mito%20do%20%22programador%20g%C3%A9nio%22%20%C3%A9%20extremamente%20perigoso.&text=Como%20resultado%2C%20os%20programadores%20t%C3%AAm,enorme%20na%20qualidade%20de%20vida.)
+- [ ] [Programar é muito fácil](https://medium.com/@julia.maschion/programar-%C3%A9-muito-f%C3%A1cil-ddf610ca6f18)
 
 ## Por que ser um programador? :thinking: <a name="id"></a>
 
