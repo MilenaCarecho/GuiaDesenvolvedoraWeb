@@ -177,7 +177,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    * Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
-   * [*Exercicio 01 resolvido *](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
+   * [*Exercicio 01 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
    
 
 ## Desafios <a name="git2"></a>
