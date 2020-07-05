@@ -152,6 +152,8 @@ Bom, o que falar sobre nosso querido HTML ?
 
    #### Leitura
 
+   - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
+
 ## Exercicios <a name="git2"></a>
 
 ## Desafios <a name="git2"></a>
