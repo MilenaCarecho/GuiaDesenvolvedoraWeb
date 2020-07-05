@@ -141,8 +141,6 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 
 ## HMTL5<a name="id"></a>
 
-## Material de estudo <a name="HTML5"></a>
-
 Bom, o que falar sobre nosso querido HTML5 ? 
 
 HTML5 é uma linguagem de marcação hipertexto utilizada para criar sites.
@@ -157,6 +155,9 @@ Eu acho importante seguir a seguinte ordem para o estudo de html5:
 Tem muito conteúdo na internet de HTML5, muitos cursos gratuitos. 
 
 Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na massa, o curso linkado ja fornece a base necessaria para que você aprenda a realizar suas buscas na documentação da W3School ou na apostila de HTML :relaxed:
+
+
+## Material de estudo <a name="HTML5"></a>
 
    #### Video
    - [ ] [História da internet](https://www.youtube.com/watch?v=rsFCVjr5yxc&t=2s)
