@@ -20,6 +20,7 @@ Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor
 Todo o material utilizado neste guia é gratuito.:money_with_wings:
 
 Não pule etapas, o intuito desse guia é justamente fornecer a ordem e um cronograma para seus estudos.
+
 Realize os exercícios e desafios propostos :rocket:
 
 
