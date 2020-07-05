@@ -120,24 +120,24 @@ O primeiro curso deste guia é o de Git e Github. Mas por quê?
 Antes de começar de fato a criar projetos e aprender o conteudo, é importante você saber a utilizar o git e como se comportar no github para tirar o maior probeiveito dessa rede e ja começar a demontrar suas habilidades para o mundo :wink:
 
 ## Material de estudo <a name="git1"></a>
-   #### * Video
-   - [ ] * [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+   #### Video
+   - [ ]  [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-   #### *Leitura
-    - [ ] * [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
-    - [ ] * [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
-    - [ ] * [A importância do Github para Desenvolvedores](https://willianjusten.com.bra-importancia-do-github-para-desenvolvedores/)
-    - [ ] * [Git e a importância de versionar um projeto](https://www.hostgator.com.br/blog/git-o-sistema-de-controle/)
-    - [ ] * [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+   #### Leitura
+   - [ ]  [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
+   - [ ]  [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+   - [ ]  [A importância do Github para Desenvolvedores](https://willianjusten.com.bra-importancia-do-github-para-desenvolvedores/)
+   - [ ]  [Git e a importância de versionar um projeto](https://www.hostgator.com.br/blog/git-o-sistema-de-controle/)
+   - [ ]  [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
 
 ## Exercicios <a name="git2"></a>
-   - [ ] * Crie sua conta no [Github](https://github.com/)
-   - [ ] * Siga o meu [perfil](https://github.com/MilenaCarecho) 
-   - [ ] * Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
-   - [ ] * [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
+   - [ ]  Crie sua conta no [Github](https://github.com/)
+   - [ ]  Siga o meu [perfil](https://github.com/MilenaCarecho) 
+   - [ ]  Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
+   - [ ]  [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
 
 ## * Desafios <a name="git3"></a>
-   - [ ] * Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
+   - [ ]  Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
 
 ## HMTL5<a name="id"></a>
 
