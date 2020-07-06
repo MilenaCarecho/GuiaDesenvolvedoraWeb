@@ -200,6 +200,8 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Desafios <a name="html3"></a>
 
+   * Não vai ter desafios no modulo HTML5, eu quis fazer o modulo HTML mais curtinho porque é melhor treinar ele com o complemento de CSS :nerd_face:
+
 ## CSS3 :nail_care: <a name="id"></a>
 
 ## Material de estudo <a name="css1"></a> 
