@@ -40,15 +40,15 @@ Realize os exercícios e desafios propostos :rocket:
    * [Material de estudo](#html1)
    * [Exercicios](#html2)
    * [Desafios](#html3)
-* **[CSS3](#id)**
+* **[CSS3](#id9)**
    * [Material de estudo](#CSS1)
    * [Exercicios](#CSS2)
    * [Desafios](#CSS3)
-* **[Design responsivo](#id)**
+* **[Design responsivo](#id10)**
    * Material de estudo 
    * Exercicios 
    * Desafios
-* **[Logica de programação](#id)**
+* **[Logica de programação](#id11)**
    * Material de estudo 
    * Exercicios 
    * Desafios
@@ -149,6 +149,7 @@ Eu acho importante seguir a seguinte ordem para o estudo de html5:
 1. Conhecer a internet e o funcionamento dela, pra isso separei 3 videos do curso de HTML5 do *Curso em vídeo*, e é por lá que você começa.
 2. Fazer o curso de HTML5 para iniciantes da NodeStudio (curso gratuido com certificado :heart_eyes:)
 3. realizar os exercícios e desafios 
+4. Em paralelo realizar o curso de Lógica de [programação](#id11)
 
    Caso você tenha alguma dificuldade na realização dos exercícios, consulte os documentos anexos no tópico *Leitura* :mag_right:
 
@@ -210,13 +211,11 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
    #### Leitura
 
-## Desafios <a name="git2"></a>
-
 ## Desafios <a name="css3"></a>
 
 ## Desing responsivo<a name="id"></a>
 
-## Logica de programação<a name="id"></a> 
+## Logica de programação <a name="id11"></a> 
 
 ## Javascript<a name="id"></a> 
 
