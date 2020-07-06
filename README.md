@@ -174,17 +174,17 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
    - [ ] **[Exercício 01]()<br>**
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01*
-   - [ ] [Exercício 02]()<br>
+   - [ ] **[Exercício 02]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02*
-   - [ ] [Exercício 03]()<br>
+   - [ ] **[Exercício 03]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d003/desafio-mapa-mundi.pdf) para mais informações sobre o exercício 03*
-   - [ ] [Exercício 04]()<br>
+   - [ ] **[Exercício 04]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d004/desafio-emoji.pdf) para mais informações sobre o exercício 04*
-   - [ ] [Exercício 05]()<br>
+   - [ ] **[Exercício 05]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d005/desafio-social.pdf) para mais informações sobre o exercício 05*
-   - [ ] [Exercício 06]()<br>
+   - [ ] **[Exercício 06]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d006/desafio-tags.pdf) para mais informações sobre o exercício 05*
-   - [ ] [Exercício 07](https://codepen.io/milenacarecho/full/VweQdpQ)<br>
+   - [ ] **[Exercício 07](https://codepen.io/milenacarecho/full/VweQdpQ)**<br>
    *Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 07*
    
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
