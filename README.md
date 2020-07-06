@@ -172,6 +172,13 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Exercicios <a name="html2"></a>
 
+ - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
+   * Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 01
+#### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
+
+   * [*Exercicio 01 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
+   
+
 ## Desafios <a name="html3"></a>
 
 ## CSS3 :nail_care: <a name="id"></a>
@@ -181,14 +188,6 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    #### Video 
 
    #### Leitura
-
-   
-   - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
-   * Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 01
-#### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
-
-   * [*Exercicio 01 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
-   
 
 ## Desafios <a name="git2"></a>
 
