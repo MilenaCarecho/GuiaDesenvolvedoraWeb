@@ -173,7 +173,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Exercicios <a name="html2"></a>
    - [ ] **Exercício 00<br>**
-   *Crie um repositorio no github para colocar os seus exercicios resolvidos*
+   *Crie um repositorio no **github** para colocar os seus exercicios resolvidos*
    - [ ] **[Exercício 01]()<br>**
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01*
    - [ ] **[Exercício 02]()**<br>
