@@ -189,6 +189,12 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
+   * [*Exercicio 01 resolvido*]()
+   * [*Exercicio 02 resolvido*]()
+   * [*Exercicio 03 resolvido*]()
+   * [*Exercicio 04 resolvido*]()
+   * [*Exercicio 05 resolvido*]()
+   * [*Exercicio 06 resolvido*]()
    * [*Exercicio 07 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio7)
    
 
