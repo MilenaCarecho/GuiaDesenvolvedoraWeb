@@ -173,6 +173,8 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 ## Exercicios <a name="git2"></a>
 
    - [ ] [Exercício 01]()
+   
+   
    Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01
    - [ ] [Exercício 02]()
    * Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02
