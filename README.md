@@ -172,11 +172,30 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Exercicios <a name="html2"></a>
 
- - [ ] [Exercício 01](https://codepen.io/milenacarecho/full/VweQdpQ)
-   * Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 01
+   - [ ] **[Exercício 01]()<br>**
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01*
+   - [ ] **[Exercício 02]()**<br>
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02*
+   - [ ] **[Exercício 03]()**<br>
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d003/desafio-mapa-mundi.pdf) para mais informações sobre o exercício 03*
+   - [ ] **[Exercício 04]()**<br>
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d004/desafio-emoji.pdf) para mais informações sobre o exercício 04*
+   - [ ] **[Exercício 05]()**<br>
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d005/desafio-social.pdf) para mais informações sobre o exercício 05*
+   - [ ] **[Exercício 06]()**<br>
+   *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d006/desafio-tags.pdf) para mais informações sobre o exercício 05*
+   - [ ] **[Exercício 07](https://codepen.io/milenacarecho/full/VweQdpQ)**<br>
+   *Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 07*
+   
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
-   * [*Exercicio 01 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio01)
+   * [*Exercicio 01 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio1)
+   * [*Exercicio 02 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio2)
+   * [*Exercicio 03 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio3)
+   * [*Exercicio 04 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio4)
+   * [*Exercicio 05 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio5)
+   * [*Exercicio 06 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/master/Cursos/HTML5/ExerciciosResolvidos/Exercicio6)
+   * [*Exercicio 07 resolvido*](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/tree/HTML5/Cursos/HTML5/ExerciciosResolvidos/Exercicio7)
    
 
 ## Desafios <a name="html3"></a>
