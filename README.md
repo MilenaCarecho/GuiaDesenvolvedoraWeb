@@ -36,23 +36,23 @@ Realize os exercícios e desafios propostos :rocket:
    * [Material de estudo](#git1)
    * [Exercicios](#git2)
    * [Desafios](#git3)
-* [HTML5](#id8)
+* **[HTML5](#id8)**
    * [Material de estudo](#html1)
    * [Exercicios](#html2)
    * [Desafios](#html3)
-* [CSS3](#id)
+* **[CSS3](#id)**
    * [Material de estudo](#CSS1)
    * [Exercicios](#CSS2)
    * [Desafios](#CSS3)
-* [Design responsivo](#id)
+* **[Design responsivo](#id)**
    * Material de estudo 
    * Exercicios 
    * Desafios
-* [Logica de programação](#id)
+* **[Logica de programação](#id)**
    * Material de estudo 
    * Exercicios 
    * Desafios
-* [JavaScript](#id) 
+* **[JavaScript](#id)**
    * Material de estudo 
    * Exercicios 
    * Desafios
