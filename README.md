@@ -149,7 +149,7 @@ Eu acho importante seguir a seguinte ordem para o estudo de html5:
 1. Conhecer a internet e o funcionamento dela, pra isso separei 3 videos do curso de HTML5 do *Curso em vídeo*, e é por lá que você começa.
 2. Fazer o curso de HTML5 para iniciantes da NodeStudio (curso gratuido com certificado :heart_eyes:)
 3. realizar os exercícios e desafios 
-4. Em paralelo realizar o curso de Lógica de [programação](#id11)
+4. Em paralelo realizar o curso de [Lógica de programação](#id11)
 
    Caso você tenha alguma dificuldade na realização dos exercícios, consulte os documentos anexos no tópico *Leitura* :mag_right:
 
