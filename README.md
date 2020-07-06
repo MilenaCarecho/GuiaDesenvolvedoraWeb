@@ -126,7 +126,7 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
    #### Leitura
    - [ ]  [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
    - [ ]  [Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
-   - [ ]  [A importância do Github para Desenvolvedores](https://willianjusten.com.bra-importancia-do-github-para-desenvolvedores/)
+   - [ ]  [A importância do Github para Desenvolvedores](https://willianjusten.com.br/a-importancia-do-github-para-desenvolvedores/)
    - [ ]  [Git e a importância de versionar um projeto](https://www.hostgator.com.br/blog/git-o-sistema-de-controle/)
    - [ ]  [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
 
