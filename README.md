@@ -1,6 +1,8 @@
 
 # O que é o Guia Desenvolvedora Web <a name="id1"></a>
 >*"Comece de onde você está. Use o que você tiver. Faça o que você puder" – Arthur Ashe*
+
+
 Fala Devs, tudo bem? :vulcan_salute:
 
 Vim compartilhar com vocês como estou me tornando uma desenvolvedora front-end. :dart:
