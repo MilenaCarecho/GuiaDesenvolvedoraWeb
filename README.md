@@ -6,7 +6,7 @@ Fala Devs, tudo bem? :vulcan_salute:
 Vim compartilhar com vocês como estou me tornando uma desenvolvedora front-end. :dart:
 
 Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor, essa quantidade de material, quando somos iniciantes, muitas vezes pode nos confundir e até atrapalhar ao invés de ajudar. 
-
+>*"Comece de onde você está. Use o que você tiver. Faça o que você puder" – Arthur Ashe*
 - [ ] [Você é um colecionador de cursos?](https://www.youtube.com/watch?v=mUqo8a1FDSM&list=PLHz_AreHm4dk_kkE0WS7010x8_AsU7twX&index=1)
 
 ## O que você vai encontrar nesse guia: <a name="id2"></a>
