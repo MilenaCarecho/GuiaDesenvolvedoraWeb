@@ -164,9 +164,20 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] [História do HTML](https://www.youtube.com/watch?v=NSmapCNcSyI)
    - [ ] [Como funciona a internet](https://www.youtube.com/watch?v=LMfeZ6XD0No&t=3s)
    - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
+   - [ ] [SEO E META TAGS SOCIAIS COM HTML](https://www.youtube.com/watch?v=YRGLRFJh4fM)
+   - [ ] [HTML - Basics and Good Practices PT-Br](https://www.youtube.com/watch?v=wi9jZJZYSIY)
 
 
    #### Leitura
+   - [ ] [Entenda o que é HTTP e o quão importante esse protocolo é para o seu site](https://rockcontent.com/blog/http/)
+   - [ ] [Como os navegadores funcionam: bastidores dos navegadores modernos](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/#:~:text=A%20funcionalidade%20principal%20de%20um,ou%20outro%20tipo%20de%20arquivo.)
+   - [ ] [DNS: o que é, como funciona e como configurar o DNS de um domínio](https://rockcontent.com/blog/dns/)
+   - [ ] [O que é Nome de domínio](https://pt.wikipedia.org/wiki/Nome_de_dom%C3%ADnio)
+   - [ ] [VOCÊ SABE O QUE É SERVIÇO DE HOSTING? SAIBA POR QUE VOCÊ PRECISA DE UM](https://blog.intnet.com.br/o-que-e-servico-de-hosting/)
+   - [ ] [SEO básico: como crescer seu tráfego quando você não sabe nada de SEO](https://rockcontent.com/blog/seo-basico/)
+   - [ ] [7 Tags HTML Que Diferenciam um Profissional SEO de um Amador](https://neilpatel.com/br/blog/tags-htm/)
+   - [ ] [HTML: Boas práticas em acessibilidade](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)
+   - [ ] [Como escrever HTML com acessibilidade?](https://medium.com/reprogramabr/como-escrever-html-com-acessibilidade-eb5fb1a6af5a)
    - [ ] [W3Schools](https://www.w3schools.com/html/default.asp)
    - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
 
