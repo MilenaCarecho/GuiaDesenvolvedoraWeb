@@ -182,7 +182,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
 
 
-#### Após estudar o material acima, veja se consegue responder com facilidade as peruntas abaixo, caso alguma das perguntas seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
+#### Após estudar o material acima, veja se consegue responder com facilidade as perguntas abaixo, caso alguma das perguntas seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
 
    * O que é HTTP? 
    * O que é SEO?
