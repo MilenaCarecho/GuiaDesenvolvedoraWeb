@@ -194,7 +194,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    * O que é um nome de dominio?
    * O que é hosting? 
    * O que é SEO e como utilizar com HTML?
-   * Como escrever HTML com acessibilidade? 
+   * Como ter acessibilidade com HTML? 
    
 
 ## Exercicios <a name="git2"></a>
