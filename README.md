@@ -167,16 +167,39 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] [História do HTML](https://www.youtube.com/watch?v=NSmapCNcSyI)
    - [ ] [Como funciona a internet](https://www.youtube.com/watch?v=LMfeZ6XD0No&t=3s)
    - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
+   - [ ] [SEO E META TAGS SOCIAIS COM HTML](https://www.youtube.com/watch?v=YRGLRFJh4fM)
+   - [ ] [HTML - Basics and Good Practices PT-Br](https://www.youtube.com/watch?v=wi9jZJZYSIY)
 
 
    #### Leitura
+   - [ ] [Entenda o que é HTTP](https://rockcontent.com/blog/http/)
+   - [ ] [Como os navegadores funcionam](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/#:~:text=A%20funcionalidade%20principal%20de%20um,ou%20outro%20tipo%20de%20arquivo.)
+   - [ ] [DNS: o que é, como funciona](https://rockcontent.com/blog/dns/)
+   - [ ] [O que é nome de domínio](https://pt.wikipedia.org/wiki/Nome_de_dom%C3%ADnio)
+   - [ ] [O QUE É SERVIÇO DE HOSTING](https://blog.intnet.com.br/o-que-e-servico-de-hosting/)
+   - [ ] [SEO básico](https://rockcontent.com/blog/seo-basico/)
+   - [ ] [7 Tags HTML Que Diferenciam um Profissional SEO de um Amador](https://neilpatel.com/br/blog/tags-htm/)
+   - [ ] [HTML: Boas práticas em acessibilidade](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)
+   - [ ] [Como escrever HTML com acessibilidade](https://medium.com/reprogramabr/como-escrever-html-com-acessibilidade-eb5fb1a6af5a)
    - [ ] [W3Schools](https://www.w3schools.com/html/default.asp)
    - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
 
-## Exercicios <a name="html2"></a>
-   - [ ] **Exercício 00<br>**
-   *Crie um repositorio no **github** para colocar os seus exercicios resolvidos*
-   - [ ] **[Exercício 01]()<br>**
+
+#### Após estudar o material acima, veja se consegue responder com facilidade as perguntas abaixo, caso alguma das perguntas seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
+
+   * Como funciona a internet?
+   * O que é HTTP? 
+   * O que são os navegadores e como eles funcionam?
+   * O que é DNS e como ele funciona? 
+   * O que é um nome de dominio?
+   * O que é hosting? 
+   * O que é SEO e como utilizar com HTML?
+   * Como escrever HTML com acessibilidade? 
+   
+
+## Exercicios <a name="git2"></a>
+
+   - [ ] **[Exercício 01](https://codepen.io/milenacarecho/full/PoZRdME)<br>**
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01*
    - [ ] **[Exercício 02]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02*
