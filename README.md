@@ -184,10 +184,15 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 #### Após estudar o material acima, veja se consegue responder com facilidade as perguntas abaixo, caso alguma das perguntas seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
 
+   * Como funciona a internet?
    * O que é HTTP? 
-   * O que é SEO?
-   * Qual a diferença entre HTTP e HTTPS? 
-   * O que é DNS? 
+   * O que são os navegadores e como eles funcionam?
+   * O que é DNS e como ele funciona? 
+   * O que é um nome de dominio?
+   * O que é hosting? 
+   * O que é SEO e como utilizar com HTML?
+   * Como escrever HTML com acessibilidade? 
+   
 
 ## Exercicios <a name="git2"></a>
 
