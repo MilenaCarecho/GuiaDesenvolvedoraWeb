@@ -169,17 +169,25 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 
    #### Leitura
-   - [ ] [Entenda o que é HTTP e o quão importante esse protocolo é para o seu site](https://rockcontent.com/blog/http/)
-   - [ ] [Como os navegadores funcionam: bastidores dos navegadores modernos](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/#:~:text=A%20funcionalidade%20principal%20de%20um,ou%20outro%20tipo%20de%20arquivo.)
-   - [ ] [DNS: o que é, como funciona e como configurar o DNS de um domínio](https://rockcontent.com/blog/dns/)
-   - [ ] [O que é Nome de domínio](https://pt.wikipedia.org/wiki/Nome_de_dom%C3%ADnio)
-   - [ ] [VOCÊ SABE O QUE É SERVIÇO DE HOSTING? SAIBA POR QUE VOCÊ PRECISA DE UM](https://blog.intnet.com.br/o-que-e-servico-de-hosting/)
-   - [ ] [SEO básico: como crescer seu tráfego quando você não sabe nada de SEO](https://rockcontent.com/blog/seo-basico/)
+   - [ ] [Entenda o que é HTTP](https://rockcontent.com/blog/http/)
+   - [ ] [Como os navegadores funcionam](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/#:~:text=A%20funcionalidade%20principal%20de%20um,ou%20outro%20tipo%20de%20arquivo.)
+   - [ ] [DNS: o que é, como funciona](https://rockcontent.com/blog/dns/)
+   - [ ] [O que é nome de domínio](https://pt.wikipedia.org/wiki/Nome_de_dom%C3%ADnio)
+   - [ ] [O QUE É SERVIÇO DE HOSTING](https://blog.intnet.com.br/o-que-e-servico-de-hosting/)
+   - [ ] [SEO básico](https://rockcontent.com/blog/seo-basico/)
    - [ ] [7 Tags HTML Que Diferenciam um Profissional SEO de um Amador](https://neilpatel.com/br/blog/tags-htm/)
    - [ ] [HTML: Boas práticas em acessibilidade](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)
-   - [ ] [Como escrever HTML com acessibilidade?](https://medium.com/reprogramabr/como-escrever-html-com-acessibilidade-eb5fb1a6af5a)
+   - [ ] [Como escrever HTML com acessibilidade](https://medium.com/reprogramabr/como-escrever-html-com-acessibilidade-eb5fb1a6af5a)
    - [ ] [W3Schools](https://www.w3schools.com/html/default.asp)
    - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
+
+
+#### Após estudar o material acima, veja se consegue responder com facilidade as peruntas abaix, caso alguma das perguntas abaixo seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
+
+   * O que é HTTP? 
+   * O que é SEO?
+   * Qual a diferença entre HTTP e HTTPS? 
+   * O que é DNS? 
 
 ## Exercicios <a name="git2"></a>
 
