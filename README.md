@@ -243,7 +243,23 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Logica de programação <a name="id11"></a> 
 
+## Material de estudo
+
+   #### Video 
+
+   #### Leitura
+
+## Desafios 
+
 ## Javascript<a name="id"></a> 
+
+## Material de estudo  
+
+   #### Video 
+
+   #### Leitura
+
+## Desafios 
 
 
 ## Contribuição 
