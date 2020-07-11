@@ -205,7 +205,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02*
    - [ ] **[Exercício 03](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/master/Cursos/HTML5/Exercicios/Exercicio3.PNG)**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d003/desafio-mapa-mundi.pdf) para mais informações sobre o exercício 03*
-   - [ ] **[Exercício 04]()**<br>
+   - [ ] **[Exercício 04](https://codepen.io/milenacarecho/full/oNbyEpL)**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d004/desafio-emoji.pdf) para mais informações sobre o exercício 04*
    - [ ] **[Exercício 05]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d005/desafio-social.pdf) para mais informações sobre o exercício 05*
