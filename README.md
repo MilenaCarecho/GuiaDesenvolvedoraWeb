@@ -11,6 +11,8 @@ Decidi criar esse guia porque na internet existe muito conteúdo ao nosso dispor
 
 - [ ] [Você é um colecionador de cursos?](https://www.youtube.com/watch?v=mUqo8a1FDSM&list=PLHz_AreHm4dk_kkE0WS7010x8_AsU7twX&index=1)
 
+>"O grande segredo para se tornar um bom programador é deixar o imediatismo de lado e entender que seu cérebro vai precisar de tempo para absorver e entender as coisas. Se você estiver fazendo algo e parecer que isso é muito difícil, apenas pare, reflita no pouco que conseguiu aprender sobre isso e volte mais tarde ou no outro dia. Você verá que tudo é questão de ter paciência com o seu tempo natural de aprendizado e perceverança nos estudos."
+
 ## O que você vai encontrar nesse guia: <a name="id2"></a>
 
 * Cursos 
