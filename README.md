@@ -212,7 +212,7 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] **[Exercício 06]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d006/desafio-tags.pdf) para mais informações sobre o exercício 05*
    - [ ] **[Exercício 07](https://codepen.io/milenacarecho/full/VweQdpQ)**<br>
-   *Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Exercicios/Exercicio01.pdf) para mais informações sobre o exercício 07*
+   *Clique [aqui](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/master/Cursos/HTML5/Exercicios/Exercicio7.pdf) para mais informações sobre o exercício 07*
    
 #### Tente resolver o exercicio sozinha (o), não vá direto ao exercicio resolvido :frowning_face:
 
