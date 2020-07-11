@@ -197,13 +197,13 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    * Como ter acessibilidade com HTML? 
    
 
-## Exercicios <a name="git2"></a>
+## Exercicios <a name="html2"></a>
 
    - [ ] **[Exercício 01](https://codepen.io/milenacarecho/full/PoZRdME)<br>**
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d001/desafio-mensagens.pdf) para mais informações sobre o exercício 01*
    - [ ] **[Exercício 02](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/master/Cursos/HTML5/Exercicios/Exercicio2.PNG)**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d002/desafio-imagens.pdf) para mais informações sobre o exercício 02*
-   - [ ] **[Exercício 03]()**<br>
+   - [ ] **[Exercício 03](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/master/Cursos/HTML5/Exercicios/Exercicio3.PNG)**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d003/desafio-mapa-mundi.pdf) para mais informações sobre o exercício 03*
    - [ ] **[Exercício 04]()**<br>
    *Clique [aqui](https://github.com/gustavoguanabara/html-css/blob/master/desafios/d004/desafio-emoji.pdf) para mais informações sobre o exercício 04*
