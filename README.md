@@ -236,13 +236,25 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 ## Material de estudo <a name="css1"></a> 
 
    #### Video 
+   - [ ] [Curso de CSS3 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-css3)
 
    #### Leitura
 
 ## Desafios <a name="css3"></a>
 
+- [ ] [Desafio 30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS)
+
 ## Desing responsivo<a name="id"></a>
 
+## Material de estudo
+
+   #### Video
+
+- [ ] [Curso de Design Responsivo](https://www.nodestudio.com.br/curso/curso-de-design-responsivo)
+
+   #### Leitura
+
+   
 ## Logica de programação <a name="id11"></a> 
 
 ## Material de estudo
@@ -252,6 +264,8 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    #### Leitura
 
 ## Desafios 
+
+
 
 ## Javascript<a name="id"></a> 
 
