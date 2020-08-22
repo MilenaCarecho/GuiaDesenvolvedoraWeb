@@ -139,6 +139,10 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
    - [ ]  Siga o meu [perfil](https://github.com/MilenaCarecho) 
    - [ ]  Dê uma estrela no [Guia](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
    - [ ]  [Divulgue seu perfil](https://github.com/gustavoguanabara/git-github/issues/3)
+   
+## Repositórios GitHub
+  - [] [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - [] [app-ideas](https://github.com/florinpop17/app-ideas)
 
 ## Desafios <a name="git3"></a>
    - [ ]  Clone esse repositorio e utilize ele como cronograma <a name="id3"></a>
