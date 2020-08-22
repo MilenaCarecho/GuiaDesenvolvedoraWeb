@@ -185,6 +185,9 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] [Como escrever HTML com acessibilidade](https://medium.com/reprogramabr/como-escrever-html-com-acessibilidade-eb5fb1a6af5a)
    - [ ] [W3Schools](https://www.w3schools.com/html/default.asp)
    - [ ] [Apostila de HTML](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb/blob/HTML5/Cursos/HTML5/Apostila%20HTML.pdf)
+   - [ ] [Javascript Moderno](https://javascript.info/)
+   - [ ] [Como escrever código Javscript limpo](https://standardjs.com/rules.html)
+   - [ ] [Básico de seguança para devs](https://developer.mozilla.org/pt-BR/docs/Web/Security/B%C3%A1sico_de_Seguran%C3%A7a_da_Informa%C3%A7%C3%A3o)
 
 
 #### Após estudar o material acima, veja se consegue responder com facilidade as perguntas abaixo, caso alguma das perguntas seja um desafio pra você, recomendo que reveja e procure mais sobre o tema para fixação :nerd_face:
