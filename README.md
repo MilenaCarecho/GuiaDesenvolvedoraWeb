@@ -125,7 +125,7 @@ Antes de começar de fato a criar projetos e aprender o conteúdo, é importante
 
 ## Material de estudo <a name="git1"></a>
    #### Video
-   - [ ]  [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+   - [ ]  [Curso de Git e GitHub: Grátis, pratico e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)   
 
    #### Leitura
    - [ ]  [Slides](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
@@ -171,6 +171,8 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
    - [ ] [Curso de HTML5 para iniciantes](https://www.nodestudio.com.br/curso/curso-de-html5)
    - [ ] [SEO E META TAGS SOCIAIS COM HTML](https://www.youtube.com/watch?v=YRGLRFJh4fM)
    - [ ] [HTML - Basics and Good Practices PT-Br](https://www.youtube.com/watch?v=wi9jZJZYSIY)
+   - [ ] [HTML Completo por cfbcursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c)
+   - [ ] [Curso de CSS3 por cfbcursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
 
 
    #### Leitura
@@ -271,7 +273,12 @@ Mas não se prenda a eles, a melhor forma de aprender é colocando a mão na mas
 
 ## Material de estudo  
 
-   #### Video 
+   #### Video
+   - [ ]  [Curso de Javascript por cfbcursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
+   - [ ]  [Curso de Javascript por curso em video](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+   - [ ]  [Curso de Javascript por keven jesus](https://www.youtube.com/playlist?list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW)
+   - [ ]  [Curso de Javascript por programador abordo](https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp)
+   - [ ]  [Expressões Regulares em Javascript](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0Yfx1JMCEOM-BB-WOCOUE1)
 
    #### Leitura
 
